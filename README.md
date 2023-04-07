@@ -49,3 +49,27 @@
 ```
 
 
+## <ol>Problem 2: <a href="">**Program for Array Rotation.**</a></ol>
+```python
+    Input: [ 5, 6, 7, 8, 1, 11, 15, 16], N = 4
+    Output: [1, 11, 15, 16, 5, 6, 7, 8]
+```
+### <ol>Problem 3: <a href="">**Program for Maximum and Minimum elements in a list.**</a></ol>
+```python
+    Input: [5, 7, 9, 4, 6, 23, 11, 12]
+    Output: Max: 23, MIN: 4
+```
+### <ol>Problem 4: <a href="">**Program to check whether number is Palindrome or not.**</a></ol>
+```python
+    Input: Enter a Number: 121
+    Output: Palindrome Number
+       
+    Input: Enter a Number: 123
+    Output: Not a Palindrome Number
+```
+### <ol>Problem 5: <a href="">**Program to check Prime Number using Sieve of Eratosthenes.**</a></ol>
+```python
+    Input: Upto How Many Terms: 20
+    Output: 2 3 5 7 11 13 17 19
+```
+
