@@ -1,4 +1,6 @@
 # Program to display the HCF of two numbers
+number1 = int(input("Enter 1st number: "))
+number2 = int(input("Enter 2ndnumber: "))
 
 def findHCF(num1,num2):
     if num1 > num2:
@@ -11,4 +13,4 @@ def findHCF(num1,num2):
 
     return hcf
 
-print(findHCF(6,12))
+print(findHCF(number1, number2))
