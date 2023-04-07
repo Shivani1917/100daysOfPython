@@ -1,5 +1,8 @@
 # Program to display the  of two numbers
 
+number1 = int(input("Enter 1st number: "))
+number2 = int(input("Enter 2ndnumber: "))
+
 def findLCM(num1,num2):
     if num1 > num2:
         smaller = num2
@@ -12,4 +15,4 @@ def findLCM(num1,num2):
 
     return lcm
 
-print(findLCM(6,8))
+print(findLCM(number1,number2))
