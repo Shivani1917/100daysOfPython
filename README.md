@@ -27,5 +27,23 @@
     Output: LCM: 24
 ```
 
+### <ol>Problem 2: <a href="">**Program to Check whether numbers is Armstrong or not.**</a></ol>
+```python
+    Input: Enter a Number: 14
+    Output: No, It's not an Armstrong Number
+    
+    Input: Enter a Number: 153
+    Output: It's an Armstrong Number
+```
+
+
+### <ol>Problem 3: <a href="">**Program to check whether given number is Fibonacci or not.**</a></ol>
+```python
+    Input: Enter a Number: 78
+    Output: It's not an Fibonacci Number
+    
+    Input: Enter a Number: 55
+    Output: Yup! It's a Fibinacci Number
+```
 
 
