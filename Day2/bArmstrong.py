@@ -3,7 +3,7 @@
 number = int(input("Write a number: "))
 
 
-def find_armstrong(num):
+def findArmstrong(num):
     if num in range(1,10):
         return True
 
@@ -21,7 +21,7 @@ def find_armstrong(num):
     else:
         return False
 
-if find_armstrong(number):
+if findArmstrong(number):
     print("This is an Armstrong number")
 else:
     print("This is not an Armstrong number")
