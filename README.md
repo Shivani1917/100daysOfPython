@@ -20,14 +20,14 @@
 ```
 
 ### <h1>Day 2</h1>
-### <ol>Problem 1: <a href="">**Program to find LCM of numbers.**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day2/aLCM.py">**Program to find LCM of numbers.**</a></ol>
 ```python
     Input: Enter 1st Number: 6
             Enter 2nd Number: 8
     Output: LCM: 24
 ```
 
-### <ol>Problem 2: <a href="">**Program to Check whether numbers is Armstrong or not.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day2/bArmstrong.py">**Program to Check whether numbers is Armstrong or not.**</a></ol>
 ```python
     Input: Enter a Number: 14
     Output: No, It's not an Armstrong Number
