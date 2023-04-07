@@ -32,7 +32,7 @@
     Input: Enter a Number: 14
     Output: No, It's not an Armstrong Number
     
-    Input: Enter a Number: 153
+    Input: Enter a Number: 370
     Output: It's an Armstrong Number
 ```
 
