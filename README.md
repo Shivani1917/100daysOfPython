@@ -61,17 +61,17 @@
     Output: Maximum element in the list:  77
             Minimum element in the list:  34
 ```
-### <ol>Problem 4: <a href="">**Program to check whether number is Palindrome or not.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day3/bPalindrome.py">**Program to display the  number Palindrome or not**</a></ol>
 ```python
-    Input: Enter a Number: 121
-    Output: Palindrome Number
+    Input: Enter a number: 121
+    Output: The number 121  is Palindrome
        
-    Input: Enter a Number: 123
-    Output: Not a Palindrome Number
+    Input: Enter a number: 123
+    Output:     Output: The number 123  is not Palindrome
 ```
-### <ol>Problem 5: <a href="">**Program to check Prime Number using Sieve of Eratosthenes.**</a></ol>
+### <ol>Problem 5: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day3/cPrime.py">**Program to check the number is Prime or not**</a></ol>
 ```python
-    Input: Upto How Many Terms: 20
-    Output: 2 3 5 7 11 13 17 19
+    Input: Enter a number: 2
+    Output: 2 is a prime number
 ```
 
