@@ -73,5 +73,8 @@
 ```python
     Input: Enter a number: 2
     Output: 2 is a prime number
+    
+    Input: Enter a number: 4
+    Output: 2 is not a prime number
 ```
 
