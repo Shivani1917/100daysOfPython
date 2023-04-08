@@ -48,7 +48,7 @@
     Output: This is a fibonacci number
 ```
 
-### <h1>Day 2</h1>
+### <h1>Day 3</h1>
 ### <ol>Problem 1: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day3/aMaxAndMin.py">**# Program to display the  number in the list is minimum and maximum**</a></ol>
 ```python
     Input: Enter number of elements : 4
