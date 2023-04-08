@@ -69,7 +69,7 @@
     Input: Enter a number: 123
     Output:     Output: The number 123  is not Palindrome
 ```
-### <ol>Problem 5: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day3/cPrime.py">**Program to check the number is Prime or not**</a></ol>
+### <ol>Problem 3: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day3/cPrime.py">**Program to check the number is Prime or not**</a></ol>
 ```python
     Input: Enter a number: 2
     Output: 2 is a prime number
