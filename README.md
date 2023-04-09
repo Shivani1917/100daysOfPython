@@ -77,4 +77,47 @@
     Input: Enter a number: 4
     Output: 4 is not a prime number
 ```
+### <h1>Day 4</h1>
+### <ol>Problem 1: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day4/aMonotonic.py">**Program to know the list is monotonic or not**</a></ol>
+```python
+    Input: Enter number of elements : 3
+           Enter elements of the list
+           1
+           2
+           3
+    Output: True
+    
+    Input: Enter number of elements : 3
+           Enter elements of the list
+           4
+           2
+           3
+    Output: Flase
+```
+### <ol>Problem 2: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day4/bReverse.py">**Program for Reversing a list**</a></ol>
+```python
+    Input:Enter number of elements : 4
+           Enter elements of the list
+           34
+           54
+           65
+           77
+           [34,54,65,77]
+       
+    Output: [77,65,54,34]
+```
+### <ol>Problem 3: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day4/cSearch.py">**Program for Searching elements in a list**</a></ol>
+```python
+     Input:Enter number of elements : 4
+           Enter elements of the list
+           34
+           54
+           65
+           77
+           [34,54,65,77]
+           Enter number to be searched : 8
+    Output:   if a.index(number) == True:
+              ValueError: 8 is not in list
+```
+
 
