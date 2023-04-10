@@ -96,7 +96,7 @@
 ```
 ### <ol>Problem 2: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day4/bReverse.py">**Program for Reversing a list**</a></ol>
 ```python
-    Input:Enter number of elements : 4
+    Input: Enter number of elements : 4
            Enter elements of the list
            34
            54
@@ -108,48 +108,48 @@
 ```
 ### <ol>Problem 3: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day4/cSearch.py">**Program for Searching elements in a list**</a></ol>
 ```python
-     Input:Enter number of elements : 4
-           Enter elements of the list
-           34
-           54
-           65
-           77
-           [34,54,65,77]
-           Enter number to be searched : 8
+     Input: Enter number of elements : 4
+            Enter elements of the list
+            34
+            54
+            65
+            77
+            [34,54,65,77]
+            Enter number to be searched : 8
     Output:   if a.index(number) == True:
               ValueError: 8 is not in list
 ```
 ### <h1>Day 5</h1>
 ### <ol>Problem 1: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day5/aSecondLargest.py">**Program for Second Largest element in a list.**</a></ol>
 ```python
-      Input:Enter number of elements : 4
-           Enter elements of the list
-           1
-           2
-           3
-           4
-           [1,2,3,4]
+      Input: Enter number of elements : 4
+             Enter elements of the list
+             1
+             2
+             3
+             4
+             [1,2,3,4]
       Output: Second largest number in the list: 3
 ```
 ### <ol>Problem 2: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day5/bSwap.py">**Program to Swap first element with last element in a list.**</a></ol>
 ```python
-   Input:Enter number of elements : 4
+   Input:  Enter number of elements : 4
            Enter elements of the list
            1
            2
            3
            4
            [1,2,3,4]
-    Output: The swapped list [4, 2, 3, 1]
+   Output: The swapped list [4, 2, 3, 1]
 ```
 ### <ol>Problem 3: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day5/cCloning.py">**Program for Cloning the list.**</a></ol>
 ```python
-   Input:Enter number of elements : 4
+   Input:  Enter number of elements : 4
            Enter elements of the list
            1
            2
            3
            4
            [1,2,3,4]
-    Output: The clonned list [1, 2, 3, 4]
+   Output: The clonned list [1, 2, 3, 4]
 ```
