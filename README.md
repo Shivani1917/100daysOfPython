@@ -151,5 +151,5 @@
            3
            4
            [1,2,3,4]
-    Output: The swapped list [4, 2, 3, 1]
+    Output: The clonned list [1, 2, 3, 4]
 ```
