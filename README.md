@@ -153,3 +153,43 @@
            [1,2,3,4]
    Output: The clonned list [1, 2, 3, 4]
 ```
+
+### <h1>Day 6</h1>
+### <ol>Problem 1: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day6/aOccurance.py">**Program to find Occurrences of elements**</a></ol>
+```python
+      Input: Enter number of elements : 7
+             Enter elements of the list
+             1
+             2
+             3
+             4
+             1
+             1
+             1
+             [1,2,3,4,1,1,1]
+             Enter the element to be checked: 3
+      Output: The occurance of 3 is 5
+```
+### <ol>Problem 2: <a href="">**Program to Swap first element with last element in a list.**</a></ol>
+```python
+   Input:  Enter number of elements : 4
+           Enter elements of the list
+           1
+           2
+           3
+           4
+           [1,2,3,4]
+   Output: The swapped list [4, 2, 3, 1]
+```
+### <ol>Problem 3: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day5/cCloning.py">**Program for Cloning the list.**</a></ol>
+```python
+   Input:  Enter number of elements : 4
+           Enter elements of the list
+           1
+           2
+           3
+           4
+           [1,2,3,4]
+   Output: The clonned list [1, 2, 3, 4]
+```
+
