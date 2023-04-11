@@ -175,15 +175,4 @@
    Input:  a = [1,2,3,4,[],5,[],[],8]
    Output: List after empty list removal : [1, 2, 3, 4, 5, 8]
 ```
-### <ol>Problem 3: <a href="">**Program for Cloning the list.**</a></ol>
-```python
-   Input:  Enter number of elements : 4
-           Enter elements of the list
-           1
-           2
-           3
-           4
-           [1,2,3,4]
-   Output: The clonned list [1, 2, 3, 4]
-```
 
