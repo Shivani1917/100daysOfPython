@@ -170,18 +170,12 @@
              Enter the element to be checked: 3
       Output: The occurance of 3 is 5
 ```
-### <ol>Problem 2: <a href="">**Program to Swap first element with last element in a list.**</a></ol>
+### <ol>Problem 2: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day6/bRemoveEmptyList.py">**Program to remove empty list**</a></ol>
 ```python
-   Input:  Enter number of elements : 4
-           Enter elements of the list
-           1
-           2
-           3
-           4
-           [1,2,3,4]
-   Output: The swapped list [4, 2, 3, 1]
+   Input:  a = [1,2,3,4,[],5,[],[],8]
+   Output: List after empty list removal : [1, 2, 3, 4, 5, 8]
 ```
-### <ol>Problem 3: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day5/cCloning.py">**Program for Cloning the list.**</a></ol>
+### <ol>Problem 3: <a href="">**Program for Cloning the list.**</a></ol>
 ```python
    Input:  Enter number of elements : 4
            Enter elements of the list
