@@ -189,8 +189,17 @@
              Enter the second element to be removed : 3
       Output: The list after removing multiple elements: [3, 4]
 ```
-### <ol>Problem 2: <a href="">**Program to remove empty list**</a></ol>
+### <ol>Problem 2: <a href="">**Program to Break list into Chunks of list**</a></ol>
 ```python
-   Input:  a = [1,2,3,4,[],5,[],[],8]
-   Output: List after empty list removal : [1, 2, 3, 4, 5, 8]
+   Input:   Enter number of elements : 4
+             Enter elements of the list
+             1
+             2
+             3
+             4
+             5
+             6
+             [1,2,3,4,5,6]
+             Chunk on which new list form: 2
+   Output: The chunked list: [[1, 2], [3, 4], [5, 6]]
 ```
