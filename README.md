@@ -175,4 +175,22 @@
    Input:  a = [1,2,3,4,[],5,[],[],8]
    Output: List after empty list removal : [1, 2, 3, 4, 5, 8]
 ```
-
+### <h1>Day 7</h1>
+### <ol>Problem 1: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day7/aRemoveMultipleElements.py">**Program to remove multiple elements**</a></ol>
+```python
+      Input: Enter number of elements : 4
+             Enter elements of the list
+             1
+             2
+             3
+             4
+             [1,2,3,4]
+             Enter the first element to be removed : 1
+             Enter the second element to be removed : 3
+      Output: The list after removing multiple elements: [3, 4]
+```
+### <ol>Problem 2: <a href="">**Program to remove empty list**</a></ol>
+```python
+   Input:  a = [1,2,3,4,[],5,[],[],8]
+   Output: List after empty list removal : [1, 2, 3, 4, 5, 8]
+```
