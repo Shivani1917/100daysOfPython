@@ -218,3 +218,38 @@
    Output: The cumulative sum of list:  [1, 3, 6, 10, 15]
 ```
 
+### <h1>Day 8</h1>
+### <ol>Problem 1: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day8/aPrintDuplicates.py">** Program for Incrementing Numeric String**</a></ol>
+```python
+      Input: Enter a numeric string: 1
+      Enter the increment number: 12
+      Output: Incremented result: 13
+```
+### <ol>Problem 2: <a href="">**Program to Break list into Chunks of list**</a></ol>
+```python
+   Input:   Enter number of elements : 4
+             Enter elements of the list
+             1
+             2
+             3
+             4
+             5
+             6
+             [1,2,3,4,5,6]
+             Chunk on which new list form: 2
+   Output: The chunked list: [[1, 2], [3, 4], [5, 6]]
+```
+### <ol>Problem 3: <a href="">**Program for Cumulative Sum of list**</a></ol>
+```python
+   Input:   Enter number of elements : 4
+             Enter elements of the list
+             1
+             2
+             3
+             4
+             5
+             6
+             [1,2,3,4,5,6]
+             Chunk on which new list form: 2
+   Output: The cumulative sum of list:  [1, 3, 6, 10, 15]
+```
