@@ -227,10 +227,23 @@
 ```
 
 ### <h1>Day 9</h1>
-### <ol>Problem 1: <a href="">**  **</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day9/aMaxOfEachKey.py">** Program to find maximum of each key in list **</a></ol>
 ```python
-      Input: 
-      
-      Output: 
+      Input: lisOfDicts = [
+    {"a": 1, "b": 5, "c": 3},
+    {"a": 2, "b": 7, "c": 1},
+    {"a": 3, "b": 3, "c": 9},
+]
+      Output: The maximum of each key in list:  {'a': 3, 'b': 7, 'c': 9}
+```
+
+### <ol>Problem 2: <a href="">** Program to find maximum of each key in list **</a></ol>
+```python
+      Input: lisOfDicts = [
+    {"a": 1, "b": 5, "c": 3},
+    {"a": 2, "b": 7, "c": 1},
+    {"a": 3, "b": 3, "c": 9},
+]
+      Output: The maximum of each key in list:  {'a': 3, 'b': 7, 'c': 9}
 ```
 
