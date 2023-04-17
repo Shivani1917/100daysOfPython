@@ -219,7 +219,7 @@
 ```
 
 ### <h1>Day 8</h1>
-### <ol>Problem 1: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day8/aIncrement.py">** Program for Incrementing Numeric String**</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day8/aIncrement.py">**Program for Incrementing Numeric String**</a></ol>
 ```python
       Input: Enter a numeric string: 1
       Enter the increment number: 12
@@ -227,7 +227,7 @@
 ```
 
 ### <h1>Day 9</h1>
-### <ol>Problem 1: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day9/aMaxOfEachKey.py">** Program to find maximum of each key in list **</a></ol>
+### <ol>Problem 1: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day9/aMaxOfEachKey.py">**Program to find maximum of each key in list**</a></ol>
 ```python
       Input: lisOfDicts = [
     {"a": 1, "b": 5, "c": 3},
