@@ -142,7 +142,7 @@
            [1,2,3,4]
    Output: The swapped list [4, 2, 3, 1]
 ```
-### <ol>Problem 3: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day5/cCloning.py">**Program for Cloning the list.**</a></ol>
+### <ol>Problem 3: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day5/cCloning.py">**Program for Cloning the list**</a></ol>
 ```python
    Input:  Enter number of elements : 4
            Enter elements of the list
@@ -235,9 +235,10 @@
     {"a": 3, "b": 3, "c": 9},
 ]
       Output: The maximum of each key in list:  {'a': 3, 'b': 7, 'c': 9}
+      
 ```
-
-### <ol>Problem 2: <a href="">** Program to find maximum of each key in list **</a></ol>
+### <h1>Day 9</h1>
+### <ol>Problem 1: <a href="">**Program to find maximum of each key in list**</a></ol>
 ```python
       Input: lisOfDicts = [
     {"a": 1, "b": 5, "c": 3},
