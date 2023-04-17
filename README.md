@@ -237,7 +237,7 @@
       Output: The maximum of each key in list:  {'a': 3, 'b': 7, 'c': 9}
       
 ```
-### <h1>Day 9</h1>
+### <h1>Day 10</h1>
 ### <ol>Problem 1: <a href="">**Program to find maximum of each key in list**</a></ol>
 ```python
       Input: lisOfDicts = [
