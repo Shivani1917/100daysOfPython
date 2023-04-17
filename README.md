@@ -237,14 +237,25 @@
       Output: The maximum of each key in list:  {'a': 3, 'b': 7, 'c': 9}
       
 ```
-### <h1>Day 10</h1>
-### <ol>Problem 1: <a href="">**Program to find maximum of each key in list**</a></ol>
+
+### <ol>Problem 2: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day9/bRemoveDigit.py">**Program for Removing Specific Digit from every element**</a></ol>
 ```python
-      Input: lisOfDicts = [
-    {"a": 1, "b": 5, "c": 3},
-    {"a": 2, "b": 7, "c": 1},
-    {"a": 3, "b": 3, "c": 9},
-]
-      Output: The maximum of each key in list:  {'a': 3, 'b': 7, 'c': 9}
+      Input: Enter number of elements: 4
+      Enter elements of the list
+      1
+      2
+      3
+      4
+      [1, 2, 3, 4]
+Digit to be removed:3
+      Output: Modified list: [1, 2, 3]
+```
+
+### <h1>Day 10</h1>
+### <ol>Problem 1: <a href="https://github.com/Shivani1917/100daysOfPython/blob/main/Day10/aSortlist1by2.py">**Program to sort list 1 by list 2**</a></ol>
+```python
+      Input:x = ["a",  "d", "e", "f", "g", "h", "i"]
+            y = [0,  0,   1,   2,   2,   0,   1]
+      Output: ['a', 'd', 'h', 'e', 'i', 'f', 'g']
 ```
 
